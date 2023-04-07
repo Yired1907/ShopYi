@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body, .main-menu > li > a, .ltext-102 {
+    font-family: 'Roboto', sans-serif ;
+}
+
+/*------------chỉnh nút xem hiện lên màu đỏ---------------------------------*/
+.hov-btn1:hover {
+    border-color: #222;
+    background-color: #d71e1e;
+    color: #fff;
+  }
+
+.ltext-201 {
+    font-family: sans-serif !important;
+}
+
+.ltext-103 {
+    font-weight: bolder !important;
+    font-family: sans-serif !important;
+}
+
+.ltext-106 {
+    font-weight: bolder !important;
+    font-family: sans-serif !important;
+}
